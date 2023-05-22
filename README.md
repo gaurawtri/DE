@@ -17,7 +17,7 @@ Give every user name (first and last) in my music app history who listened to th
 **Dataset details:**
 30 days of event data from a music app stored as csv in the working directory 
 
-**Plan to Execute:  **
+**Plan to Execute:**
 
 Creating list of file paths to process original event csv data files
 Processing the files to create the data file csv that will be used for Apache Cassandra tables
@@ -46,12 +46,8 @@ Pandas is a popular open-source data manipulation and analysis library for Pytho
 
 csv:  
 Python package that provides functionality for reading and writing CSV (Comma-Separated Values) files.
-![image](https://github.com/gaurawtri/DE/assets/109141229/125a4cfb-1953-4309-9a63-03829f564845)
-
-![Uploading image.png…]()
-
-![image](https://github.com/gaurawtri/DE/assets/109141229/3c1dc638-4739-4142-9040-a3a5c1f283af)
 
 
-![image](https://github.com/gaurawtri/DE/assets/109141229/670aacd2-37c6-4e69-9b9c-c3a66ff61961)
+![1200px-Cassandra_logo svg](https://github.com/gaurawtri/DE/assets/109141229/fab622fc-c16e-438b-9197-ea12fc28871e)
+
 
