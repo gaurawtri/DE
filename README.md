@@ -1,3 +1,7 @@
+
+![1200px-Cassandra_logo svg](https://github.com/gaurawtri/DE/assets/109141229/6422186d-afef-4c17-bafe-5482dde056d8)
+
+
 **Problem Statement** – A music streaming company wants to :
 
 To provide personalized recommendations or insights to users based on the songs they listened to during a specific session and item index to enhance user experience, improve song recommendations, or analyze user behavior patterns.
@@ -47,7 +51,5 @@ Pandas is a popular open-source data manipulation and analysis library for Pytho
 csv:  
 Python package that provides functionality for reading and writing CSV (Comma-Separated Values) files.
 
-
-![1200px-Cassandra_logo svg](https://github.com/gaurawtri/DE/assets/109141229/fab622fc-c16e-438b-9197-ea12fc28871e)
 
 
