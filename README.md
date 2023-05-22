@@ -1,7 +1,6 @@
 
 ![1200px-Cassandra_logo svg](https://github.com/gaurawtri/DE/assets/109141229/6422186d-afef-4c17-bafe-5482dde056d8)
 
-
 **Problem Statement** – A music streaming company wants to :
 
 To provide personalized recommendations or insights to users based on the songs they listened to during a specific session and item index to enhance user experience, improve song recommendations, or analyze user behavior patterns.
